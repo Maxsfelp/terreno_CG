@@ -50,17 +50,17 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1612}
+      Script: {instanceID: 1614}
     - Class: 114
-      Script: {instanceID: 2438}
+      Script: {instanceID: 2440}
     - Class: 114
-      Script: {instanceID: 2796}
+      Script: {instanceID: 2798}
     - Class: 114
-      Script: {instanceID: 2990}
+      Script: {instanceID: 2992}
     - Class: 114
-      Script: {instanceID: 3284}
+      Script: {instanceID: 3286}
     - Class: 114
-      Script: {instanceID: 3742}
+      Script: {instanceID: 3744}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -80,6 +80,10 @@ ScriptsOnlyBuild:
     - Class: 193
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
       Script: {instanceID: 0}
     - Class: 205
       Script: {instanceID: 0}
@@ -1060,6 +1064,78 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp-firstpass.dll
     namespaceName: UnityStandardAssets.Utility
     className: SimpleActivatorMenu
+  - hash:
+      serializedVersion: 2
+      Hash: f55ff13226afce64d1a7ba998be5cbd5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Weather_Thunderstorm
+  - hash:
+      serializedVersion: 2
+      Hash: 9663f9b15efcfe62ec6225824dd3e013
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Weather_Base
+  - hash:
+      serializedVersion: 2
+      Hash: d3c9a104b32ad7274eb2dd91d4664057
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Weather_Debug
+  - hash:
+      serializedVersion: 2
+      Hash: 33fd73eb25ba4097e2f26f6699573022
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Weather_Rain
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Weather_SoundFade
+  - hash:
+      serializedVersion: 2
+      Hash: da45f6e22076cefbd76a55a3d553ba6f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ToD_Base
+  - hash:
+      serializedVersion: 2
+      Hash: b41a1545a8746a66dd0dea5c22d9a2b2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Weather_Snow
+  - hash:
+      serializedVersion: 2
+      Hash: d3c9a104b32ad7274eb2dd91d4664057
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ToD_Debug
+  - hash:
+      serializedVersion: 2
+      Hash: 8e2b5fbff3b6c1e67985e1256cdedc2b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Weather_Controller
+  - hash:
+      serializedVersion: 2
+      Hash: be87feea7f2a5600b6cc740544938f1a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Weather_Cloudy
+  - hash:
+      serializedVersion: 2
+      Hash: 48e4e6f5b5436d039358786ba7235998
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ToD_Clock
+  - hash:
+      serializedVersion: 2
+      Hash: be87feea7f2a5600b6cc740544938f1a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Weather_Sun
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
